@@ -40,9 +40,6 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k984530&layout=compact&theme=graywhite)](https://github.com/k984530/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k984530&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
-
 <!--
 **k984530/k984530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
