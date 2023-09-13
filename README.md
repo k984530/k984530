@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Won's%20GitHub👋%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k984530&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
-
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -40,6 +38,8 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k984530&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **k984530/k984530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
